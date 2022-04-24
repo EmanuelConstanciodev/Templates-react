@@ -2,3 +2,15 @@ md "Hooks","Components","Svg","Layouts","Routes","Services","Utils","Pages"
 
 
 md "Aside","Buttons","Card","ContendCard","Footer","FomContact","Modal","NavBar","NotFound","Search","ServerError","Sidebar"
+
+
+type nul > index.js
+
+
+cd .. 
+
+
+cd directory
+
+
+mkdir directory
