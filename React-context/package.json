@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-scroll": "^1.8.6",
+    "react-router-dom": "^6.2.1",
+    "axios": "^0.25.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
